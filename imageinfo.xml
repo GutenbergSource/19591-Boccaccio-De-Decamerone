@@ -1,10 +1,30 @@
 <images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
-<image path="images/book.png" filesize="218" filedate="2010-02-11 21:03:56" width="16px" height="16px">
-</image>
-<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
-</image>
-<image path="images/cover.jpg" filesize="91613" filedate="2006-10-19 20:33:38" width="549px" height="720px">
-</image>
-<image path="images/external.png" filesize="172" filedate="2010-02-11 21:03:56" width="12px" height="12px">
-</image>
+<image path="images/front.jpg" filesize="325061" filedate="2024-06-07 19:13:00" width="1109px" height="1440px"/>
+<image path="images/frontispiece.jpg" filesize="468432" filedate="2024-06-07 19:13:00" width="990px" height="1440px"/>
+<image path="images/p028.jpg" filesize="492738" filedate="2024-06-07 19:13:00" width="1055px" height="1440px"/>
+<image path="images/p048.jpg" filesize="451177" filedate="2024-06-07 19:13:00" width="967px" height="1440px"/>
+<image path="images/p064.jpg" filesize="479252" filedate="2024-06-07 19:13:00" width="995px" height="1440px"/>
+<image path="images/p156.jpg" filesize="525807" filedate="2024-06-07 19:13:00" width="972px" height="1440px"/>
+<image path="images/p230.jpg" filesize="494432" filedate="2024-06-07 19:13:00" width="1015px" height="1440px"/>
+<image path="images/p256.jpg" filesize="511780" filedate="2024-06-07 19:13:00" width="1022px" height="1440px"/>
+<image path="images/p280.jpg" filesize="514745" filedate="2024-06-07 19:13:00" width="1030px" height="1440px"/>
+<image path="images/p288.jpg" filesize="446681" filedate="2024-06-07 19:13:00" width="994px" height="1440px"/>
+<image path="images/p294.jpg" filesize="481368" filedate="2024-06-07 19:13:00" width="1055px" height="1440px"/>
+<image path="images/p296.jpg" filesize="470069" filedate="2024-06-07 19:13:00" width="972px" height="1440px"/>
+<image path="images/p316.jpg" filesize="465787" filedate="2024-06-07 19:13:00" width="1026px" height="1440px"/>
+<image path="images/p328.jpg" filesize="510388" filedate="2024-06-07 19:13:00" width="1038px" height="1440px"/>
+<image path="images/p354.jpg" filesize="522789" filedate="2024-06-07 19:13:00" width="1095px" height="1440px"/>
+<image path="images/p376.jpg" filesize="519386" filedate="2024-06-07 19:13:00" width="1031px" height="1440px"/>
+<image path="images/p384.jpg" filesize="495082" filedate="2024-06-07 19:13:00" width="1041px" height="1440px"/>
+<image path="images/p390.jpg" filesize="521755" filedate="2024-06-07 19:13:00" width="1033px" height="1440px"/>
+<image path="images/p408.jpg" filesize="440803" filedate="2024-06-07 19:13:00" width="968px" height="1440px"/>
+<image path="images/p428.jpg" filesize="481066" filedate="2024-06-07 19:13:00" width="1025px" height="1440px"/>
+<image path="images/p434.jpg" filesize="455702" filedate="2024-06-07 19:13:00" width="1018px" height="1440px"/>
+<image path="images/p490.jpg" filesize="493287" filedate="2024-06-07 19:13:00" width="1016px" height="1440px"/>
+<image path="images/p526.jpg" filesize="478394" filedate="2024-06-07 19:13:00" width="1026px" height="1440px"/>
+<image path="images/p536.jpg" filesize="513094" filedate="2024-06-07 19:13:00" width="1020px" height="1440px"/>
+<image path="images/p585.jpg" filesize="501699" filedate="2024-06-07 19:13:00" width="1022px" height="1440px"/>
+<image path="images/qr19591.png" filesize="330" filedate="2024-06-07 19:13:17" width="296px" height="296px"/>
+<image path="images/spine.jpg" filesize="108425" filedate="2024-06-07 19:13:00" width="475px" height="1440px"/>
+<image path="images/titlepage.png" filesize="22064" filedate="2024-06-07 19:13:00" width="983px" height="1440px"/>
 </images>
